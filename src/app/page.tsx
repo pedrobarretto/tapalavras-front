@@ -46,7 +46,7 @@ export default function Home() {
         <div className="text-center mb-8 transform -rotate-2">
           <div className="relative inline-block">
             <h1 className="text-5xl sm:text-6xl font-extrabold text-[#1f2a28] mb-2 px-6 py-2 border-4 border-[#fdc11d] bg-[#fffffd] rounded-xl shadow-lg transform rotate-2">
-              TapaPalavras
+              Tapalavras
             </h1>
             <Sparkles
               className="absolute -top-4 -right-4 text-[#fdc11d]"

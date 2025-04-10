@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: 'TapaPalavras - Jogo de Palavras',
+  title: 'Tapalavras - Jogo de Palavras',
   description: 'Um jogo de palavras multiplayer para jogar com amigos',
 };
 

@@ -142,7 +142,7 @@ export default function GameRoom() {
         <header className="flex flex-col sm:flex-row sm:items-center justify-between mb-4 sm:mb-6">
           <div>
             <h1 className="text-2xl sm:text-3xl font-bold text-[#1f2a28]">
-              TapaPalavras
+              Tapalavras
             </h1>
             <div className="bg-[#2c5ba7] px-3 py-1 rounded-md shadow-sm mt-2 inline-block">
               <span className="text-[#fffffd] mr-2">Código da Sala:</span>

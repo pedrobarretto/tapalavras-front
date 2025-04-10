@@ -1,6 +1,6 @@
-# TapaPalavras Frontend
+# Tapalavras Frontend
 
-A modern web application for the TapaPalavras word game built with Next.js 15, React 19, and Socket.IO for real-time multiplayer functionality.
+A modern web application for the Tapalavras word game built with Next.js 15, React 19, and Socket.IO for real-time multiplayer functionality.
 
 ## Features
 
@@ -79,4 +79,4 @@ npm start
 
 ## Connecting to the API
 
-The frontend connects to the TapaPalavras API via Socket.IO for real-time game functionality. Make sure the API is running (see the API README) and the `NEXT_PUBLIC_API_URL` environment variable points to the correct API endpoint.
+The frontend connects to the Tapalavras API via Socket.IO for real-time game functionality. Make sure the API is running (see the API README) and the `NEXT_PUBLIC_API_URL` environment variable points to the correct API endpoint.
